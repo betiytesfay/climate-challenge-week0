@@ -1,0 +1,20 @@
+Interim Report
+
+Task 1: Git & Environment Setup
+
+Created GitHub repository
+Initialized Git locally
+Created branch setup-task
+Added .gitignore, requirements.txt, README.md
+Made multiple commits
+Pushed to GitHub and merged to main
+
+Task 2: Data Profiling and Cleaning Approach
+
+Load data using pandas
+Convert YEAR and DOY to datetime
+Replace -999 with NaN
+Remove duplicates
+Handle missing values
+Perform EDA (temperature, rainfall, correlations)
+Save cleaned data locally
