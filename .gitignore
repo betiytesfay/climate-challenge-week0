@@ -1,3 +1,24 @@
-
+# CSV data files (raw and cleaned)
 *.csv
+
+# Data folder (where CSVs are stored)
+data/
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings (optional, but good to exclude personal settings)
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
